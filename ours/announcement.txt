@@ -2,24 +2,24 @@ We are pleased to invite you to our Software Carpentry event: a two-day free
 workshop that will take place on March 19-20, 2018 (Tuesday - Wednesday) at
 Inria Saclay (Turing building) in Palaiseau, France (Paris metropolitan area).
 
-Software Carpentry is a programming course meant to improve the computing skills
-of any scientist:
+Software Carpentry is a programming course meant to improve the computing
+skills of any scientist:
  - automating tasks with the shell,
  - programming in Python,
  - data analysis and visualisation,
  - keeping track of project changes with git
 
-The course is aimed at graduate students and other
-researchers. You don't need to have any previous knowledge of the tools that
-will be presented at the workshop. Some prior programming experience (in any
-language), although not required, will be useful.
+The course is aimed at graduate students and other researchers. You don't need
+to have any previous knowledge of the tools that will be presented at the
+workshop. Some prior programming experience (in any language), although not
+required, will be useful.
 
-The teaching language of the course is English (but there will be
-helpers around assisting in French).
+The teaching language of the course is English (but there will be helpers
+around assisting in French).
 
 Since the course is free and due to limited space, registration is mandatory.
-The registration will open on Wednesday February 27 at 10am and the
-seats will be distributed on first-come-first-serve basis.
+The registration will open on Wednesday February 27 at 10am and the seats will
+be distributed on first-come-first-serve basis.
 
 More information and registration at: https://paris-swc.github.io/2019-03-19-inria-saclay/
 
