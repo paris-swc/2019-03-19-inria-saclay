@@ -1,0 +1,30 @@
+You are invited to a two-day Software Carpentry course that will take place on
+March 19-20, 2018 (Tuesday - Wednesday) at Inria Saclay (Turing building) in
+Palaiseau, France (Paris metropolitan area).
+
+Software Carpentry is a programming course for beginners, which covers most
+important skills for everyday use of scientists (automating tasks with the
+shell, programming in Python, data analysis and visualisation, keeping track of
+project changes with git). The course is aimed at graduate students and other
+researchers. You don't need to have any previous knowledge of the tools that
+will be presented at the workshop. Some prior programming experience (in any
+language), although not required, will be useful.
+
+The teaching language of the course is English (but there will be
+helpers around that can assist in French).
+
+The registration to the course is free, but due to limited space it is
+mandatory. The registration will open on Wednesday February 27 at 10am and the
+seats will be distributed on first-come-first-serve basis.
+
+More information and registration at: https://paris-swc.github.io/2019-03-19-inria-saclay/
+
+About Software Carpentry
+
+Scientists spend more and more time on programming. While techniques for
+writing software are constantly evolving, only few scientists have been trained
+to use them. As a result, instead of doing their research, they spend far too
+much time writing deficient code and reinventing the wheel. This course is a
+two-day hands-on tutorial tailored to the needs of novice Python programmers or
+seasoned users of other programming languages. It introduces them to modern
+standards of scientific software development. http://software-carpentry.org
