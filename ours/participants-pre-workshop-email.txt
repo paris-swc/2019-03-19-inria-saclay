@@ -1,0 +1,32 @@
+Dear fellow Software carpenter,
+
+the Software carpentry workshop is going to happen next week (Monday 19 and
+Tuesday 20 March) in Inria Saclay (more details at
+https://paris-swc.github.io/2019-03-19-inria-saclay/).
+
+Here are a few things you need to do before the workshop.
+
+Please fill out the pre-workshop survey
+(https://carpentries.typeform.com/to/wi32rS?slug=2019-03-19-inria-saclay).
+This is useful for the instructors to have a quick idea about the audience and
+helps Software Carpentry workshops to get better with time.
+
+As a reminder: participants must bring a laptop with a Mac, Linux, or Windows
+operating system (not a tablet, Chromebook, etc.) and make sure that you have
+administrative privileges on.
+
+- there is a few things you need to install before the workshop, go to
+  https://paris-swc.github.io/2019-03-19-inria-saclay/#setup, click on your
+  Operating System (Windows, MacOS or Linux) and follow the installation
+  instructions for the "The Bash shell", "Git" and "Python".
+
+- you will also need to download a few files. Please follow the instruction for
+  Bash (http://swcarpentry.github.io/shell-novice/setup.html) and Python
+  (http://swcarpentry.github.io/python-novice-gapminder/setup/).
+
+If you encounter problems when following these install instructions, we
+recommend that you arrive before the beginning of the workshop on Tuesday
+morning. Some of us will be there from 8.30am to help with installation issues.
+
+We hope to see you all this Tuesday 19th at Alan Turing,
+Software Carpentry Paris
