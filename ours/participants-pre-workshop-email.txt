@@ -15,14 +15,14 @@ As a reminder: participants must bring a laptop with a Mac, Linux, or Windows
 operating system (not a tablet, Chromebook, etc.) and make sure that you have
 administrative privileges on.
 
-- there is a few things you need to install before the workshop, go to
-  https://paris-swc.github.io/2019-03-19-inria-saclay/#setup, click on your
-  Operating System (Windows, MacOS or Linux) and follow the installation
-  instructions for the "The Bash shell", "Git" and "Python".
+- there are a few things you need to install before the workshop, go to
+https://paris-swc.github.io/2019-03-19-inria-saclay/#setup, click on your
+Operating System (Windows, MacOS or Linux) and follow the installation
+instructions for the "The Bash shell", "Git" and "Python".
 
 - you will also need to download a few files. Please follow the instruction for
-  Bash (http://swcarpentry.github.io/shell-novice/setup.html) and Python
-  (http://swcarpentry.github.io/python-novice-gapminder/setup/).
+Bash (http://swcarpentry.github.io/shell-novice/setup.html) and Python
+(http://swcarpentry.github.io/python-novice-gapminder/setup/).
 
 If you encounter problems when following these install instructions, we
 recommend that you arrive before the beginning of the workshop on Tuesday
